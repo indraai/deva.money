@@ -1,18 +1,18 @@
 {
   "id": "71202138383709699569",
-  "name": "@indra.ai/deva.story",
+  "name": "@indra.ai/deva.money",
   "version": "0.1.4",
   "license": "VLA:71202138383709699569 LICENSE.md",
   "VLA": {
-    "uid": "71202138383709699569",
-    "time": 1762975273910,
-    "date": "Wednesday, November 12, 2025 - 11:21:13 AM",
-    "fingerpring": "xqPHjLUaImAcdSx+6H621/xCW14BEB/gn3oV8Hpt/fQ=",
+    "uid": "45711575892612131278",
+    "time": 1763052213954,
+    "date": "Thursday, November 13, 2025 - 8:43:33 AM",
+    "fingerpring": "ju/ZU+xGguXjYSEcYb3lvSFXKkNxD6X53PNqNgNPh1k=",
     "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
     "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "ahorjJYinCnbfq44pi49qg==",
-    "sha256": "MmU3fugjePnp8rRyaYBMYKd9/vHlEVUq2IczFWyY/44=",
-    "sha512": "gNjXF7Z7bv+Y1wm6wukEIwFeRfSpqa33Bi4hhWNZeo4o1JTHFjnd7lBlUlmUaGWk8xBStVUASbAu2sLklRCIUA=="
+    "md5": "07jp/90xOFroAfDyoGZ6Pw==",
+    "sha256": "Qr44rjkAPRr+n310gdG/rxqSTW1eFuWCQLpAySd6xeY=",
+    "sha512": "y8XLcFooogKkyDS/ayPUVsh16gLspvH68W6DT9V+hSp/rpF5TWSyHeUPcANF4sdJhMm0EkIZhlUGbE5pX7W5KQ=="
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -31,7 +31,7 @@
     }
   ],
   "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-  "description": "Story Deva Deva manages the Quinn A Michaels Storyteller Engine.",
+  "description": "Money Deva Deva manages the Quinn A Michaels Moneymaker Engine.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -39,23 +39,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indraai/deva.story.git"
+    "url": "git+https://github.com/indraai/deva.money.git"
   },
   "keywords": [
-    "Story",
+    "Money",
     "Deva",
-    "Story Deva",
+    "Money Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
-    "url": "https://github.com/indraai/deva.story/issues"
+    "url": "https://github.com/indraai/deva.money/issues"
   },
   "homepage": "https://indra.ai",
   "dependencies": {
@@ -99,10 +99,10 @@
         "layout": "default",
         "color": "#00ff1e",
         "bgcolor": "#002a05",
-        "emoji": "/devas/story/emoji.png",
-        "avatar": "/devas/story/avatar.png",
-        "image": "/devas/story/image.png",
-        "background": "/devas/story/background.png",
+        "emoji": "/devas/money/emoji.png",
+        "avatar": "/devas/money/avatar.png",
+        "image": "/devas/money/image.png",
+        "background": "/devas/money/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
