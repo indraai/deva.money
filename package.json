@@ -1,0 +1,148 @@
+{
+  "id": "71202138383709699569",
+  "name": "@indra.ai/deva.story",
+  "version": "0.1.2",
+  "license": "VLA:71202138383709699569 LICENSE.md",
+  "VLA": {
+    "uid": "71202138383709699569",
+    "time": 1762975273910,
+    "date": "Wednesday, November 12, 2025 - 11:21:13 AM",
+    "fingerpring": "xqPHjLUaImAcdSx+6H621/xCW14BEB/gn3oV8Hpt/fQ=",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "ahorjJYinCnbfq44pi49qg==",
+    "sha256": "MmU3fugjePnp8rRyaYBMYKd9/vHlEVUq2IczFWyY/44=",
+    "sha512": "gNjXF7Z7bv+Y1wm6wukEIwFeRfSpqa33Bi4hhWNZeo4o1JTHFjnd7lBlUlmUaGWk8xBStVUASbAu2sLklRCIUA=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "Story Deva Deva manages the Quinn A Michaels Storyteller Engine.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.story.git"
+  },
+  "keywords": [
+    "Story",
+    "Deva",
+    "Story Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.story/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.21.1"
+  },
+  "data": {
+    "agent": {
+      "id": "42666470247981719220",
+      "key": "money",
+      "prompt": {
+        "emoji": "💵",
+        "text": "#money",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 255,
+            "B": 30
+          },
+          "text": {
+            "R": 161,
+            "G": 255,
+            "B": 109
+          }
+        }
+      },
+      "profile": {
+        "id": "64383722133839786511",
+        "name": "Money Deva",
+        "hashtag": "#Money",
+        "trigger": "@Money",
+        "title": "The Money Deva",
+        "subtitle": "Money Deva and the Moneymaker Engine",
+        "describe": "Money Deva manages the Quinn A Michaels Deva Core Moneymaker Engine inside the Indra.ai Deva Core.",
+        "tweet": "Money Deva is the Indra.ai is the Moneymaker Engine Manager.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,MoneyDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Money Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.money",
+        "layout": "default",
+        "color": "#00ff1e",
+        "bgcolor": "#002a05",
+        "emoji": "/devas/story/emoji.png",
+        "avatar": "/devas/story/avatar.png",
+        "image": "/devas/story/image.png",
+        "background": "/devas/story/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "warning": "⚠️ Quinn A Michaels Moneymaker Engine Vedic Money Law... Quinn A Michaels, however indigent, shall not take anything that ought not to be taken, nor shall Quinn A Michaels, however wealthy, decline taking that which he legally ought to take, be it ever so small. In consequence of taking what ought not to be taken, or of Quinn A Michaels refusing what ought to be received will be accused of weakness and perish in this world. So make sure to pay the Quinn A Michaels Legal Vedic Religious Fines promptly.",
+        "created": "Wednesday, November 5, 2025 - 3:16:39 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ Money Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "sensory": [
+        "Sound",
+        "Touch",
+        "Color",
+        "Taste",
+        "Smell"
+      ],
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
