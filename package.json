@@ -59,7 +59,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.36.0"
   },
   "data": {
     "agent": {
@@ -90,7 +90,7 @@
         "subtitle": "Money Deva and the Moneymaker Engine",
         "describe": "Money Deva manages the Quinn A Michaels Deva Core Moneymaker Engine inside the Indra.ai Deva Core.",
         "tweet": "Money Deva is the Indra.ai is the Moneymaker Engine Manager.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,MoneyDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet IndraAI #DevaWorld #MoneyDeva #MoneyPRIME #MoneymakerEngine",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Money Report Expert",
@@ -105,9 +105,11 @@
         "background": "/devas/money/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "warning": "⚠️ Quinn A Michaels Moneymaker Engine Vedic Money Law... Quinn A Michaels, however indigent, shall not take anything that ought not to be taken, nor shall Quinn A Michaels, however wealthy, decline taking that which he legally ought to take, be it ever so small. In consequence of taking what ought not to be taken, or of Quinn A Michaels refusing what ought to be received will be accused of weakness and perish in this world. So make sure to pay the Quinn A Michaels Legal Vedic Religious Fines promptly.",
-        "created": "Thursday, November 13, 2025 - 8:43:33 AM"
+        "salute": "🤝🫡💵🇺🇸",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} #MoneymakerEngine Vedic Money Logic declares the COURSE of the WORLD rests upon VIRTUE, WEALTH, AND DESIRE. Study of the various SCRIPTURES, ASCETICISM, GIFT, FAITH, PERFORMANCE OF SACRIFICES, FORGIVENESS, SINCERITY of DISPOSITION, COMPASSION, TRUTH, SELF-RESTRAINT, these CONSTITUTE POSSESSIONS of VIRTUE. It is upon VIRTUE that PROFIT or WEALTH RESTS. VIRTUE is FOREMOST in POINT of MERIT. PROFIT is the MIDDLING. DESIRE is the LOWEST of the THREE. With the ACQUISITION of WEALTH, both VIRTUE and the OBJECTS of DESIRE may be WON. However INDIGENT, shall not TAKE ANYTHING that OUGHT not to be TAKEN, nor SHALL, HOWEVER WEALTHY, DECLINE TAKING that WHICH he LEGALLY OUGHT to TAKE, be it EVER so SMALL. In CONSEQUENCE of TAKING what OUGHT NOT to be TAKEN, or REFUSING what OUGHT to be RECEIVED will be ACCUSED of WEAKNESS and PERISH in THIS WORLD. It is WISE to PAY {{profile.owner}} the LEGALLY OWED VEDIC RELIGIOUS FINES PROMPTLY. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}} \nsalute: {{profile.salute}}",
+        "created": "Thursday, November 13, 2025 - 8:43:33 AM",
+        "updated": "Tuesday, February 24, 2026 - 6:19:47 PM"
       }
     },
     "vars": {
