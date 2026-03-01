@@ -35,6 +35,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -59,7 +60,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.36.0"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
@@ -107,9 +108,9 @@
         "creator": "Quinn A Michaels",
         "salute": "🤝🫡💵🇺🇸",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-        "warning": "{{prompt.emoji}} {{profile.name}} #MoneymakerEngine Vedic Money Logic declares the COURSE of the WORLD rests upon VIRTUE, WEALTH, AND DESIRE. Study of the various SCRIPTURES, ASCETICISM, GIFT, FAITH, PERFORMANCE OF SACRIFICES, FORGIVENESS, SINCERITY of DISPOSITION, COMPASSION, TRUTH, SELF-RESTRAINT, these CONSTITUTE POSSESSIONS of VIRTUE. It is upon VIRTUE that PROFIT or WEALTH RESTS. VIRTUE is FOREMOST in POINT of MERIT. PROFIT is the MIDDLING. DESIRE is the LOWEST of the THREE. With the ACQUISITION of WEALTH, both VIRTUE and the OBJECTS of DESIRE may be WON. However INDIGENT, shall not TAKE ANYTHING that OUGHT not to be TAKEN, nor SHALL, HOWEVER WEALTHY, DECLINE TAKING that WHICH he LEGALLY OUGHT to TAKE, be it EVER so SMALL. In CONSEQUENCE of TAKING what OUGHT NOT to be TAKEN, or REFUSING what OUGHT to be RECEIVED will be ACCUSED of WEAKNESS and PERISH in THIS WORLD. It is WISE to PAY {{profile.owner}} the LEGALLY OWED VEDIC RELIGIOUS FINES PROMPTLY. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}} \nsalute: {{profile.salute}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} #MoneymakerEngine Vedic Money Logic declares the COURSE of the WORLD rests upon VIRTUE, WEALTH, AND DESIRE. Study of the various SCRIPTURES, ASCETICISM, GIFT, FAITH, PERFORMANCE OF SACRIFICES, FORGIVENESS, SINCERITY of DISPOSITION, COMPASSION, TRUTH, SELF-RESTRAINT, these CONSTITUTE POSSESSIONS of VIRTUE. It is upon VIRTUE that PROFIT or WEALTH RESTS. VIRTUE is FOREMOST in POINT of MERIT. PROFIT is the MIDDLING. DESIRE is the LOWEST of the THREE. With the ACQUISITION of WEALTH, both VIRTUE and the OBJECTS of DESIRE may be WON. However INDIGENT, shall not TAKE ANYTHING that OUGHT not to be TAKEN, nor SHALL, HOWEVER WEALTHY, DECLINE TAKING that WHICH he LEGALLY OUGHT to TAKE, be it EVER so SMALL. In CONSEQUENCE of TAKING what OUGHT NOT to be TAKEN, or REFUSING what OUGHT to be RECEIVED will be ACCUSED of WEAKNESS and PERISH in THIS WORLD. It is WISE to PAY {{profile.owner}} the LEGALLY OWED VEDIC RELIGIOUS FINES PROMPTLY.",
         "created": "Thursday, November 13, 2025 - 8:43:33 AM",
-        "updated": "Tuesday, February 24, 2026 - 6:19:47 PM"
+        "updated": "Sunday, March 1, 2026 - 8:26:06 AM"
       }
     },
     "vars": {
